@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+    
+    
+    
+}
+
+
+span{
+    color: red;
+}
+
+.red1{
+    background-color:white;
+}
+
+.red1 a{
+    margin-left: 22%;
+    text-decoration: none;
+    
+   
+}
+
+
+.red{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(226, 7, 7);
+    width:100%;
+    height: 400px;
+    background-color: rgb(230, 212, 212);
+    background-image: url('./fundo.jpg');
+    
+    
+}
+
+#lg{
+    width: 100px;
+    margin: 10px;
+}
+
+img{
+    margin-left: 20%;
+}
+
+
+.rodape{
+    display:flex;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(183, 245, 245);
+}
+
+
+.rodape a {
+    margin-left: 20px;
+}
+
+#loginho{
+    width: 30px;
+    height: 30px;
+    margin-left:10px;
+    margin-right: 10px;
+}
+
+button{
+    
+    margin-left: 100px;
+    
+    
+}
+
+
+.info{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+
+section{
+    margin-left: 10px;
+}
+
+@media (max-width: 600px){
+    #vl{
+        margin-left: 1px;
+        width:  400px;
+
+    }
+}
+
+@media (max-width: 600px){
+    #vid{
+        margin-left:10px;
+        width:420px;
+
+    }
+}
+
+
+
+@media (max-width: 600px){
+    #GD{
+        margin-left: 1px;
+        width:  400px;
+        
+    }}
+
+@media (max-width: 600px){
+    #GD2{
+        margin-left: 1px;
+        width:  400px;
+        
+    }}
+    
+    
+    @media (max-width: 600px){
+        .red h1{
+            margin-left: 50px;
+            
+        }}
+    
+    @media (max-width: 600px){
+        .red1 a{
+            margin-left:30px;
+            
+        }}
